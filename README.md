@@ -26,12 +26,12 @@ const aboutMe = {
    },
 };
 ```
-## Estats
+## Stats
 
 <p align="center">
-    <img align="center" alt="Johan Ramirez stats" src="https://github-readme-stats.vercel.app/api?username=johanramirez91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+    <img align="center" alt="Johan Ramirez stats" src="https://github-readme-stats.vercel.app/api?username=johanramirez91&&show_icons=true&theme=algolia" />
 </p>
 
 <p align="center">
-    <img align="center" alt="Johan Ramirez stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanramirez91&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+    <img align="center" alt="Johan Ramirez stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanramirez91&&show_icons=true&&theme=algolia" />
 </p>
