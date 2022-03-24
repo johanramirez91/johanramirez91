@@ -33,5 +33,5 @@ const aboutMe = {
 </p>
 
 <p align="center">
-    <img align="center" alt="Johan Ramirez stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanramirez91&&show_icons=true&&theme=algolia" />
+    <img align="center" alt="Johan Ramirez stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanramirez91&langs_count=6&&show_icons=true&&theme=algolia" />
 </p>
