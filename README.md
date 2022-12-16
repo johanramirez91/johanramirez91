@@ -4,7 +4,7 @@
 **johanramirez91/johanramirez91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning Angular and Django
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about Web development or any tech related stuff
 - 📫 How to reach me: Linkedin - [@johanramirez91](https://www.linkedin.com/in/johanramirezm91/)
 - ⚡ Fun fact: I spend almost 10 hours listening metal music 🤘🎵
